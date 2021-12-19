@@ -1,17 +1,7 @@
 # Mega Link Downloader Bot
 <p align="center"><b>This is a telegram bot to download mega.nz links and return them as files/videos - Made by a 100% noob!</b></p>
 
-<p align="center">(When I mean noob I really mean noob!)</p>
-
-<b>You can find a live version of this bot in telegram as [@mega_downloader_robot](https://t.me/mega_downloader_robot)</b>
-
-Created with ❤️ by <b>[@xmysteriousx](https://t.me/xmysteriousx)</b> as a part of [@mysterious_uploader_robot](https://t.me/mysterious_uploader_robot)
-
-<p align="center"><a href="https://t.me/rezoth_tm"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a></p>
-
-Please be kind to star and fork this repo!✨😇
-<br>
-
+<p align="center">(When I mean noob I really mean noob!)<
 ---
 
 ## Features 💫
